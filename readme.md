@@ -22,4 +22,4 @@ Je suis Misscat4411, passionné par la cybersécurité et débutant dans le dév
 
 ### Retrouvez-moi sur Discord
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1137413640945934418)]
+
