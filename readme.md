@@ -3,7 +3,7 @@
 Je suis Misscat4411, passionné par la cybersécurité et débutant dans le développement en JavaScript.
 
 - 🚀 Actuellement en train de travailler sur Delta-Bot.
-- 🌱 J'apprends Python & Java.
+- 🌱 J'apprends le Python et le JavaScript.
 - 💬 Pour toute demande d'aide ou collaboration, n'hésitez pas à me contacter.
 
 ### Mes Stats Github:
@@ -22,4 +22,5 @@ Je suis Misscat4411, passionné par la cybersécurité et débutant dans le dév
 
 ### Retrouvez-moi sur Discord
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1137413640945934418)](https://discord.com/app)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1137413640945934418)]((https://discord.com/users/1137413640945934418)
+)
