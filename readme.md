@@ -80,7 +80,7 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Find me on Discord !</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1137413640945934418)]((https://discord.com/users/1137413640945934418)
 )
