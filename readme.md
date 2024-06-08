@@ -85,7 +85,7 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/1137413640945934418)]((https://discord.com/users/1137413640945934418)
 )
 
-<div>
+<div
 	align='center'>
 
 </div>
