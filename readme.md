@@ -1,9 +1,7 @@
 ### Welcome to My GitHub Profile! 👋
 
-I’m **MrCat**, a passionate cybersecurity enthusiast and JavaScript developer, currently diving into Python development.
+I’m **Morgan**, a passionate cybersecurity enthusiast and JavaScript developer, currently diving into Python development.
 
-- 🚀 Working on **Delta-Bot**, an advanced Discord bot project.
-- 🌱 Learning **Python** to expand my coding skills and improve automation.
 - 💻 Experienced **JavaScript** developer, specializing in bot development.
 - 🔐 Enthusiastic about **cybersecurity**, and digital privacy.
 - 🤝 Open to collaborations and discussions—feel free to reach out!
@@ -18,26 +16,15 @@ I’m **MrCat**, a passionate cybersecurity enthusiast and JavaScript developer,
   <img height="25" src="https://img.shields.io/github/stars/Bipre2466?color=f429ff&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
 </p> 
 
-![Autre Statistiques](https://github-readme-stats.vercel.app/api?username=Bipre2466&show_icons=true&theme=radical)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bipre2466&layout=compact)](https://github.com/Bipre2466)
-
 ---
 
 ### 🛠️ Technologies & Tools:
 
-- **Languages:** JavaScript, Python, Bash
+- **Languages:** JavaScript, Python, Lua
 - **Frameworks & Libraries:** Node.js, Express.js, Discord.js
 - **Version Control:** Git, GitHub
 - **Databases:** MongoDB, MySQL
-- **Development Tools:** Visual Studio Code
-
----
-
-### 📜 Featured Projects:
-
-🚀 **Delta-Gestion** - A powerful and customizable Discord bot with advanced moderation features.
+- **Development Tools:** Visual Studio Code, Roblox Studio
 
 ---
 
@@ -45,5 +32,5 @@ I’m **MrCat**, a passionate cybersecurity enthusiast and JavaScript developer,
 
 - **💬 Discord:** just.mrcat
 
-- **📧 Email:** [cloudmrcat@gmail.com](mailto\:cloudmrcat@gmail.com)
+- **📧 Email:** morganm@airfranceroblox.com
 
