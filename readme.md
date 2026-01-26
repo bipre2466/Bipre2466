@@ -1,36 +1,53 @@
-### Welcome to My GitHub Profile! 👋
+# 👋 Hello, I'm Morgan (Bipre2466)
 
-I’m **Morgan**, a passionate cybersecurity enthusiast and JavaScript developer, currently diving into Python development.
+### 👨‍💻 Developer & Cyber-Sec Enthusiast | Lead at APM Group
 
-- 💻 Experienced **JavaScript** developer, specializing in bot development.
-- 🔐 Enthusiastic about **cybersecurity**, and digital privacy.
-- 🤝 Open to collaborations and discussions—feel free to reach out!
+I’m a passionate developer specializing in **JavaScript ecosystems** and **aviation software infrastructure**. Currently expanding my horizons with **Python** and deep-diving into **cybersecurity** to build unshakeable systems.
 
 ---
 
-### 📊 GitHub Stats:
+### 🛠️ What I'm working on:
+- ✈️ **[APM Group](https://apmgroup.tech):** Developing next-gen aviation tools like **APM Flights** and **Crew Connect**.
+- 🤖 **Bot Development:** Creating high-performance Node.js bots for large-scale Discord communities.
+- 🔐 **Security:** Implementing robust API authentication and data privacy for aviation platforms.
+
+---
+
+### 📊 GitHub Ecosystem:
 
 <p align="left">
-  <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=Bipre2466&countColorcountColor&countColor=%23006EFF" alt="Mes vues du profil"/>
-  <img height="25" src="https://img.shields.io/github/followers/Bipre2466?color=4a12ba&style=for-the-badge&logo=github&label=Follow" alt="Abonnés"/>
+  <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=Bipre2466&countColor=%23006EFF" alt="Profile Views"/>
+  <img height="25" src="https://img.shields.io/github/followers/Bipre2466?color=4a12ba&style=for-the-badge&logo=github&label=Follow" alt="Followers"/>
   <img height="25" src="https://img.shields.io/github/stars/Bipre2466?color=f429ff&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
 </p> 
 
 ---
 
-### 🛠️ Technologies & Tools:
+### ⚙️ Tech Stack & Arsenal:
 
-- **Languages:** JavaScript, Python, Lua
-- **Frameworks & Libraries:** Node.js, Express.js, Discord.js
-- **Version Control:** Git, GitHub
-- **Databases:** MongoDB, MySQL
-- **Development Tools:** Visual Studio Code, Roblox Studio
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | `JavaScript` `Python` `Lua` `HTML/CSS` |
+| **Backend** | `Node.js` `Express.js` `Discord.js` |
+| **Databases** | `MongoDB` `MySQL` |
+| **Tools** | `Git` `Visual Studio Code` `Roblox Studio` `WebStorm` |
 
 ---
 
-### 🌍 Connect with Me:
+### 🌍 Beyond the Code:
 
-- **💬 Discord:** just.mrcat
+- 🎮 **Aviation:** Heavily involved in the professional Roblox aviation scene.
+- 🛡️ **Privacy:** I believe digital privacy is a right, not a luxury.
+- 💬 **Collaborations:** Open to working on security audits or bot infrastructures.
 
-- **📧 Email:** morganm@airfranceroblox.com
+### 📬 Connect with me:
 
+- **Discord:** `just.mrcat`
+- **Professional:** [morganm@airfranceroblox.com](mailto:morganm@airfranceroblox.com)
+- **Enterprise:** [sales@apmgroup.online](mailto:sales@apmgroup.online)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bipre2466&show_icons=true&theme=tokyonight&count_private=true" alt="Morgan's Stats" />
+</p>
