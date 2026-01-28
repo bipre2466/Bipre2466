@@ -43,8 +43,7 @@ I’m a passionate developer specializing in **JavaScript ecosystems** and **avi
 ### 📬 Connect with me:
 
 - **Discord:** `just.mrcat`
-- **Professional:** [morganm@airfranceroblox.com](mailto:morganm@airfranceroblox.com)
-- **Enterprise:** [sales@apmgroup.online](mailto:sales@apmgroup.online)
+- **Professional:** [hello@mmo-nte.tech](mailto:hello@mmo-nte.tech)
 
 ---
 
