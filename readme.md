@@ -42,7 +42,7 @@ I’m a passionate developer specializing in **JavaScript ecosystems** and **avi
 
 ### 📬 Connect with me:
 
-- **Discord:** `just.mrcat`
+- **Discord:** `just.morg4n`
 - **Professional:** [hello@mmo-nte.tech](mailto:hello@mmo-nte.tech)
 
 ---
