@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Developer & Cyber-Sec Enthusiast | Lead at APM Group
 
-I’m a passionate developer specializing in **JavaScript ecosystems** and **aviation software infrastructure**. Currently expanding my horizons with **Python** and deep-diving into **cybersecurity** to build unshakeable systems.
+I’m a passionate developer specializing in **JavaScript ecosystems** and **aviation software infrastructure**. Currently expanding my horizons with deep-diving into **cybersecurity** to build unshakeable systems.
 
 ---
 
@@ -43,10 +43,4 @@ I’m a passionate developer specializing in **JavaScript ecosystems** and **avi
 ### 📬 Connect with me:
 
 - **Discord:** `just.morg4n`
-- **Professional:** [hello@mmo-nte.tech](mailto:hello@mmo-nte.tech)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bipre2466&show_icons=true&theme=tokyonight&count_private=true" alt="Morgan's Stats" />
-</p>
+- **Professional:** [morgan@mmo-nte.tech](mailto:morgan@mmo-nte.tech)
